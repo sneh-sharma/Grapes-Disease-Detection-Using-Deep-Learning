@@ -43,9 +43,8 @@ After downloading, extract the dataset and update the dataset path in the notebo
 jupyter notebook GRAPES.ipynb
 
 
-👨‍💻 Author
 
-Sneh Sharma 
+
 
 
 
