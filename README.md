@@ -41,3 +41,8 @@ After downloading, extract the dataset and update the dataset path in the notebo
 
 ```bash
 jupyter notebook GRAPES.ipynb
+
+Author
+LinkedIn: Sneh Sharma
+
+
